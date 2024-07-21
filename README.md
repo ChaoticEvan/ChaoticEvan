@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web scraping via Python
 - 💬 Ask me why C# is the best OOP language
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Ferrari will win the F1 world driver's championship... someday.
+- ⚡ Fun fact: Charles Leclrec will win the F1 world driver's championship... someday.
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=FFA518)&nbsp;
